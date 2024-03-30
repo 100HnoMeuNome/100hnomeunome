@@ -1,4 +1,4 @@
-## My Favorite ⭐
+## My Favorite
 
 - Coffee
 - Call of Duty Warzone
