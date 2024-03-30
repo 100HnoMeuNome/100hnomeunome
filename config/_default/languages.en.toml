@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Tales Casagrande"
+description = "Cloud Security | Human | Father"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Tales Casagrande a.k.a Taleco"
+  image = "img/author.jpg"
+  headline = "Cloud Security | Human | Father"
+  bio = "Cloud Security | Human | Father"
+  links = [
+    { x-twitter = "https://twitter.com/100HnoMeuNome", github = "https://twitter.com/100HnoMeuNome", instagram = "https://twitter.com/100HnoMeuNome", linkedin = "https://twitter.com/100HnoMeuNome", medium = "https://twitter.com/100HnoMeuNome", twitch = "https://twitter.com/100HnoMeuNome", youtube = "https://twitter.com/100HnoMeuNome", spotify = "https://twitter.com/100HnoMeuNome" }
+    
+]

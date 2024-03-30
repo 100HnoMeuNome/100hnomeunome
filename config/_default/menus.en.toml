@@ -1,0 +1,33 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "Speaker Sessions"
+  pageRef = "Speaker Sessions"
+  weight = 10
+
+[[main]]
+  name = "Articles"
+  pageRef = "Articles"
+  weight = 10
+
+[[main]]
+  name = "Podcast"
+  pageRef = "podcast"
+  weight = 10
+
+[[main]]
+  name = "My Favorite"
+  pageRef = "My Favorite"
+  weight = 10
+
+[[main]]
+  name = "Community Projects"
+  pageRef = "Community Projects"
+  weight = 10
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"
