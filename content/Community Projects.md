@@ -1,4 +1,4 @@
-## Community Projects 📛
+## Community Projects
 
 - AWS Community Builder
 
