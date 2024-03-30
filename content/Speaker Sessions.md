@@ -1,4 +1,4 @@
-## Speaker Sessions 🎤
+## Speaker Sessions
 
 [Utilizando a Observabilidade para priorizar issues de Segurança | DevOps Experience Junho 2023
 ](https://youtu.be/za34SrHznTI?si=Y4A7qPY9K0Se74hC)
