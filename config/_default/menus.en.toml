@@ -1,12 +1,12 @@
 # config/_default/menus.en.toml
 
 [[main]]
-  name = "Speaker Sessions"
-  pageRef = "Speaker Sessions"
+  name = "Talk Sessions"
+  pageRef = "Talk Sessions"
   weight = 10
 
 [[main]]
-  name = "Talk Sessions"
+  name = "Articles"
   pageRef = "Articles"
   weight = 10
 
@@ -24,10 +24,3 @@
   name = "Community Projects"
   pageRef = "Community Projects"
   weight = 10
-
-[[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
-    icon = "search"
