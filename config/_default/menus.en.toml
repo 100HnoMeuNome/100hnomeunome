@@ -2,12 +2,12 @@
 
 [[main]]
   name = "Talk Sessions"
-  pageRef = "Talk Sessions"
+  pageRef = "talk-sessions"
   weight = 10
 
 [[main]]
   name = "Articles"
-  pageRef = "Articles"
+  pageRef = "articles"
   weight = 10
 
 [[main]]
@@ -17,10 +17,10 @@
 
 [[main]]
   name = "My Favorite"
-  pageRef = "My Favorite"
+  pageRef = "my-Favorite"
   weight = 10
 
 [[main]]
   name = "Community Projects"
-  pageRef = "Community Projects"
+  pageRef = "community-projects"
   weight = 10
