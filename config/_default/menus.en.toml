@@ -6,7 +6,7 @@
   weight = 10
 
 [[main]]
-  name = "Articles"
+  name = "Talk Sessions"
   pageRef = "Articles"
   weight = 10
 
