@@ -1,6 +1,6 @@
 ## Community Projects
 
-- AWS Community Builder
+- AWS Community Builder #security-identity
 
 - Snyk Ambassador Program
 
