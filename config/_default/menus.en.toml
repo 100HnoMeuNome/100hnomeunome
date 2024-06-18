@@ -24,3 +24,8 @@
   name = "Community Projects"
   pageRef = "community-projects"
   weight = 10
+
+[[main]]
+  name = "Buy Me a Coffee"
+  pageRef = "buy-me-a-coffee"
+  weight = 10
