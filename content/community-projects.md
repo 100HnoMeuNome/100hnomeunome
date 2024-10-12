@@ -2,11 +2,10 @@
 
 These were the projects and communities that I actively participated in in recent years.
 
-- AWS Community Builder #security-identity
+<img src="/public/img/snyk-ambassador.png" alt="coffee" width="200"/>
 
-- Snyk Ambassador Program
+<img src="/public/img/calico.png" alt="coffee" width="200"/>
 
-- Calico Bigcats
+<img src="/public/img/aws_commutity_builder.jpg" alt="coffee" width="200"/>
 
-- Confratech
-
+<img src="/public/img/confratech.png" alt="coffee" width="200"/>
