@@ -1,10 +1,7 @@
 ## My Favorite
 
-![coffee](https://github.com/user-attachments/assets/8de6d15e-6ae8-4242-a77e-69b717066b78)
+<img src="/img/coffee.jpg" alt="coffee" width="200"/>
 
-- Call of Duty Warzone: casual player#6024746
-- New England IPA
-- Negroni
-- Music
-- Technology
-- Read
+<img src="/img/negroni.jpg" alt="coffee" width="200"/>
+
+<img src="/img/tech_sec.jpg" alt="coffee" width="200"/>
