@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Community Projects"
-  pageRef = "community-projects"
+  pageRef = "community"
   weight = 10
 
 [[main]]
