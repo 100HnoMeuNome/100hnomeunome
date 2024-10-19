@@ -17,7 +17,7 @@
 
 [[main]]
   name = "My Favorite"
-  pageRef = "my-Favorite"
+  pageRef = "my-favorite"
   weight = 10
 
 [[main]]
