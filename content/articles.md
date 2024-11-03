@@ -6,5 +6,3 @@
 :newspaper:[Trend Micro | Por que as empresas ainda precisam se preocupar com interceptação de conversas?](https://www.trendmicro.com/pt_br/about/newsroom/press-releases/2018/interceptacao-conversas.html)
 
 :newspaper: [Trend Micro | Como ataques fileless funcionam e persistem nos sistemas](https://www.trendmicro.com/pt_br/about/newsroom/press-releases/2020/07-24-comunicados-de-imprensa.html)
-
-:newspaper: [Snyk | Safely handling containers](https://snyk.io/blog/safely-handling-containers/)
