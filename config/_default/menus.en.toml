@@ -27,5 +27,5 @@
 
 [[main]]
   name = "Buy Me a Coffee"
-  pageRef = "BuyMeaCoffee"
+  pageRef = "buy-me-a-coffee"
   weight = 10
