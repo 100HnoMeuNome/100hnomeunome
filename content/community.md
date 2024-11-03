@@ -8,6 +8,8 @@
 
 :man_teacher: [Snyk | Safely handling containers](https://snyk.io/blog/safely-handling-containers/)
 
+:man_teacher: [DevSecCon | Container Safekeeping and Vulnerability Scanning](https://youtu.be/zdp4tYD4gvU)
+
 ## AWS Comunity Builder #security-identity
 
 :man_teacher: [Um Framework, Seis Pilares e muitas recomendações de como criar um ambiente seguro e resiliente](https://www.youtube.com/watch?v=RjkxejOOcqM&list=PLv3L8f6F-z9Ktrr3T7BDu2SbUpjoV59Er&index=6)
@@ -21,8 +23,6 @@
 :man_teacher: [As principais ameaças digitais de 2019 e o que esperar de 2020](https://eventostech.com.br/index.php/event/security-by-confratech/)
 
 ##  Others
-
-:man_teacher: [DevSecCon | Container Safekeeping and Vulnerability Scanning](https://youtu.be/zdp4tYD4gvU)
 
 :man_teacher: [Global SRE Virtual Conference | Software Composition Analysis & Supply Chain Attacks](https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/speakers-131.html)
 
