@@ -5,3 +5,5 @@
 `play_button`[Cultura DevOps | Segurança na nuvem](https://open.spotify.com/episode/0gvzmVSEgeq4SuKkrOMt35)
   
 `play_button`[Sem Servidor | Segurança em Aplicações Serverless](https://open.spotify.com/episode/77uFSdWWktJ5jvLZ3TXAlq?si=3d2c60087cd94bfe)
+
+`see_no_evil`
