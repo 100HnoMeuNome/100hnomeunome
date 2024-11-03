@@ -2,19 +2,27 @@
 
 ## TV Show & Cartoons
 
-:television: The Office
+📺 The Office
 
-:television: Lost
+📺 Lost
 
-:television: Batman
+📺 Batman
 
-:television: Cavaleiros do Zodiaco
+📺 Knights of the Zodiac: Saint Seiya
 
 ## Drinks
+☕ Coffee
+
+🍺 Beer
+
+🍷 Wine
+
+🥃 Negroni
 
 ## Hobbies
 
+🚴 Bike
 
+📚 Read
 
-
-
+☕ Barista
