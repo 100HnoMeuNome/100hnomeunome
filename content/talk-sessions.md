@@ -1,15 +1,12 @@
 ## Talk Sessions
 
-- [Utilizando a Observabilidade para priorizar issues de Segurança | DevOps Experience Junho 2023](https://youtu.be/za34SrHznTI?si=FhEDC60Yt5hp8BWb)
+- [DevOps Experience Junho 2023 | Utilizando a Observabilidade para priorizar issues de Segurança](https://youtu.be/za34SrHznTI?si=FhEDC60Yt5hp8BWb)
 
-- [Roadsec 2023 - VILA APPSEC](https://www.roadsec.com.br/rs23-vilas-de-conteudo)
+- [Roadsec 2023 | VILA APPSEC](https://www.roadsec.com.br/rs23-vilas-de-conteudo)
 
 - [Webinar: Observabilidade Além dos 3 Pilares - Uma Perspectiva de Segurança](https://www.youtube.com/watch?v=jEQ-16Nhk60)
 
 - [Container Safekeeping and Vulnerability Scanning](https://youtu.be/zdp4tYD4gvU)
-
-- [Utilizando a Observabilidade para priorizar issues de Segurança | DevOps Experience Junho 2023
-](https://youtu.be/za34SrHznTI?si=Y4A7qPY9K0Se74hC)
 
 - [Webinar: Observabilidade Além dos 3 Pilares - Uma Perspectiva de Segurança
 ](https://youtu.be/jEQ-16Nhk60?si=QVx6Qdps_u8kiD0H)
@@ -22,9 +19,9 @@
 
 - [Live Darede #287 - O que é e do que se alimenta o tal do eBPF?](https://youtu.be/YGXUJEHNud4)
 
-- [CLOUD COMPUTING](https://youtu.be/d2WpsDNKvjc)
+- [Trend Micro | CLOUD COMPUTING](https://youtu.be/d2WpsDNKvjc)
 
-- [INTRODUÇAO AO OPEN SOURCE](https://youtu.be/d2WpsDNKvjc)
+- [Trend Micro | INTRODUÇAO AO OPEN SOURCE](https://youtu.be/d2WpsDNKvjc)
 
 - [ConfraTech - 9a Edição (Fresh Live Market) - Social Engineering](https://www.eventbrite.com.br/e/confratech-9a-edicao-fresh-live-market-tickets-65580054709#)
 
@@ -46,6 +43,6 @@
 
 - [Um Framework, Seis Pilares e muitas recomendações de como criar um ambiente seguro e resiliente](https://www.youtube.com/watch?v=RjkxejOOcqM&list=PLv3L8f6F-z9Ktrr3T7BDu2SbUpjoV59Er&index=6)
 
-- [Owasp Belém - Aumentando a maturidade no desenvolvimento de aplicações sem gastar NADA!](https://youtu.be/gA8pRTejBnA)
+- [Owasp Belém | Aumentando a maturidade no desenvolvimento de aplicações sem gastar NADA!](https://youtu.be/gA8pRTejBnA)
 
 - [Utilizando a Observabilidade para priorizar issues de Segurança | DevOps Experience Junho 2023](https://youtu.be/zdp4tYD4gvU)
