@@ -27,3 +27,10 @@
 :speaking_head: [Trend Micro | INTRODUÇAO AO OPEN SOURCE](https://youtu.be/d2WpsDNKvjc)
 
 :speaking_head: [Trend Micro | Como saber se minha empresa está de acordo com a LGPD?](https://youtu.be/5YCEIVb-cF4)
+
+## Conferences
+
+:speaking_head: [10º Encontro de Previdência Complementar – Região Sul ](https://www.editoraroncarati.com.br/v2/Artigos-e-Noticias/Artigos-e-Noticias/LGPD-e-inovacao-tecnologica-concentram-atencoes-do-Encontro-da-Regiao-Sul.html)
+
+:speaking_head: [Roadsec | VILA APPSEC](https://www.roadsec.com.br/rs23-vilas-de-conteudo)
+
