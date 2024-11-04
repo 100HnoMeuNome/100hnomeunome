@@ -1,5 +1,6 @@
 # Community
 
+
 ## Calico Big Cats
 :man_teacher: [Calico Live: Episode 13](https://youtu.be/5NwPlT7jrUY)
 
@@ -7,8 +8,6 @@
 :man_teacher: [DevSecCon | Container Safekeeping and Vulnerability Scanning](https://youtu.be/zdp4tYD4gvU)
 
 :man_teacher: [Snyk | Safely handling containers](https://snyk.io/blog/safely-handling-containers/)
-
-:man_teacher: [DevSecCon | Container Safekeeping and Vulnerability Scanning](https://youtu.be/zdp4tYD4gvU)
 
 ## AWS Community Builder #security-identity
 
@@ -28,4 +27,14 @@
 
 :man_teacher: [Owasp Belém | Aumentando a maturidade no desenvolvimento de aplicações sem gastar NADA!](https://youtu.be/gA8pRTejBnA)
 
-:man_teacher: [DevOps Experience | Utilizando a Observabilidade para priorizar issues de Segurança](https://youtu.be/za34SrHznTI?si=FhEDC60Yt5hp8BWb)
+:man_teacher: [DevOps Heroes | Utilizando a Observabilidade para priorizar issues de Segurança](https://youtu.be/za34SrHznTI?si=FhEDC60Yt5hp8BWb)
+
+:man_teacher: [DevOps Heroes | Quem é o IAST na sopa de letrinhas da Analise de Código!](https://youtu.be/-ukXVXsyl-8?si=srUPXkjsbnye5nd1)
+
+:man_teacher: [DevOps Heroes | Analise em Composição de Software em tempo de execução, o que é e do que se alimenta](https://youtu.be/HGOYhe5FWRY?si=5JCiJzLvjmTcNIyu)
+
+:man_teacher: [Microsoft Reactor | Da Observabilidade para Segurança Cloud Native](https://www.youtube.com/live/xBV4JNye4IY?feature=shared)
+
+:man_teacher: [Microsoft Reactor | Segurança de Código](https://www.youtube.com/live/7AHKJs6LJb8?feature=shared)
+
+:man_teacher: [Microsoft Reactor | Segurança de Infra em Nuvem](https://www.youtube.com/live/rTlfCsM1Hj0?si=PnZ9GiB0ubwpB5Ab)
