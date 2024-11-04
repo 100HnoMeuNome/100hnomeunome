@@ -30,6 +30,10 @@
 
 ## Conferences
 
+💬 [AWS Summit São Paulo | Introdução à segurança de contêineres](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/?amer-summit-cards.sort-by=item.additionalFields.startDate&amer-summit-cards.sort-order=asc&awsf.amer-summit-session=*all&awsf.amer-summit-level=*all&awsf.amer-summit-areaofinterest=*all&awsf.amer-summit-industry=*all&awsf.amer-summit-roles=*all&awsf.amer-summit-topic=*all&amer-summit-cards.q=security&amer-summit-cards.q_operator=AND&awsm.page-amer-summit-cards=2)
+
+💬 [AWS Summit Bogotá | Introducción a la seguridad de contenedores](https://aws.amazon.com/es/events/summits/bogota/agenda/?amer-summit-cards.sort-by=item.additionalFields.startDate&amer-summit-cards.sort-order=asc&awsf.amer-summit-session=*all&awsf.amer-summit-level=*all&awsf.amer-summit-areaofinterest=*all&awsf.amer-summit-industry=*all&awsf.amer-summit-roles=*all&awsf.amer-summit-topic=*all&amer-summit-cards.q=security&amer-summit-cards.q_operator=AND&awsm.page-amer-summit-cards=2)
+
 💬 [10º Encontro de Previdência Complementar – Região Sul ](https://www.editoraroncarati.com.br/v2/Artigos-e-Noticias/Artigos-e-Noticias/LGPD-e-inovacao-tecnologica-concentram-atencoes-do-Encontro-da-Regiao-Sul.html)
 
 💬 [Roadsec | VILA APPSEC](https://www.roadsec.com.br/rs23-vilas-de-conteudo)
