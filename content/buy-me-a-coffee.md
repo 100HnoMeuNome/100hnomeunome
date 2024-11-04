@@ -2,6 +2,8 @@
 
 💵 If you want make me happy, feel free to buy me a coffee! It's just **$2**
 
-Buy me a Coffee is plataform to support content creators.
+⚠️ Is not a virus! 
 
-[Just click here](https://buymeacoffee.com/100hnomeunome) is not a virus! 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/100hnomeunome)
+
+
