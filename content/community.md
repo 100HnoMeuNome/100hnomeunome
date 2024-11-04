@@ -10,7 +10,7 @@
 
 :man_teacher: [DevSecCon | Container Safekeeping and Vulnerability Scanning](https://youtu.be/zdp4tYD4gvU)
 
-## AWS Comunity Builder #security-identity
+## AWS Community Builder #security-identity
 
 :man_teacher: [Um Framework, Seis Pilares e muitas recomendações de como criar um ambiente seguro e resiliente](https://www.youtube.com/watch?v=RjkxejOOcqM&list=PLv3L8f6F-z9Ktrr3T7BDu2SbUpjoV59Er&index=6)
 
