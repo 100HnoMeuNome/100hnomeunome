@@ -7,13 +7,3 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[params.HugoShortcodes.BuyMeACoffee]
-    Slug = 'isqua'
-    Text = 'Buy me a croissant'
-    Font = 'Lato'
-    Emoji = '🥐'
-    ButtonColor = 'ffdd00'
-    FontColor = '000000'
-    CoffeeColor = 'ffffff'
-    CupColor = '000000'
