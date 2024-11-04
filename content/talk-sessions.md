@@ -34,3 +34,8 @@
 
 💬 [Roadsec | VILA APPSEC](https://www.roadsec.com.br/rs23-vilas-de-conteudo)
 
+💬 [TheDevConf | Qual a relação da pizza com uma jornada para nuvem?](https://thedevconf.com/tdc/2021/connections/trilha-cloud;jsessionid=9545107DD7E39FFB812953B7397E9043)
+
+💬 [TheDevConf | Utilizando um cão de guarda para farejar vulnerabilidades em dependências open source](https://thedevconf.com/tdc/2021/transformation/trilha-software-security;jsessionid=9545107DD7E39FFB812953B7397E9043)
+
+💬 [TheDevConf | Coordenador de Trilha SOFTWARE SECURITY](https://thedevconf.com/tdc/2022/connections/trilha-software-security;jsessionid=9545107DD7E39FFB812953B7397E9043)
