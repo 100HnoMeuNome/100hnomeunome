@@ -31,6 +31,9 @@
 
 💬 [Trend Micro | Como saber se minha empresa está de acordo com a LGPD?](https://youtu.be/5YCEIVb-cF4)
 
+💬 [Trend Micro | Passo a passo: gere um relatório completo focado no AWS Well-Architected Framework
+](https://youtu.be/FtgoNGpYgEU?si=KuU7rEK6prqWr7jx)
+
 ## Conferences
 
 💬 [AWS Summit São Paulo | Introdução à segurança de contêineres](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/?amer-summit-cards.sort-by=item.additionalFields.startDate&amer-summit-cards.sort-order=asc&awsf.amer-summit-session=*all&awsf.amer-summit-level=*all&awsf.amer-summit-areaofinterest=*all&awsf.amer-summit-industry=*all&awsf.amer-summit-roles=*all&awsf.amer-summit-topic=*all&amer-summit-cards.q=security&amer-summit-cards.q_operator=AND&awsm.page-amer-summit-cards=2)
