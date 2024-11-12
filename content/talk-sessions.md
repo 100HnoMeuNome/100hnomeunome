@@ -10,6 +10,9 @@
 
 💬 [Live Darede | Visão além do alcance com análise de composição de software](https://youtu.be/pt-vdRaRPx4)
 
+💬 [Service IT | Conheça o Trend Micro Cybersecurity Assessment Service](https://youtu.be/Nr2cpRkYFJQ?si=2kpsHnLdYANJiKr6)
+
+
 ## At Customers
 
 💬 [CIASC | CIASC realiza palestra sobre proteção de dados contra vulnerabilidades e vazamentos](https://www.ciasc.sc.gov.br/noticias/ciasc-realiza-palestra-sobre-protecao-de-dados-contra-vulnerabilidades-e-vazamentos/) 
