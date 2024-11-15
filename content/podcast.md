@@ -6,3 +6,5 @@
   
 :play_button: [Sem Servidor | Segurança em Aplicações Serverless](https://open.spotify.com/episode/77uFSdWWktJ5jvLZ3TXAlq?si=3d2c60087cd94bfe)
 
+:play_button: [Delfia | Segurança e Observabilidade para a era da Nuvem com Datadog](https://open.spotify.com/episode/6hqOIFh95Def9BdI59Gb8G?si=c211faa196b141ba)
+
