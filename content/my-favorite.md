@@ -11,8 +11,10 @@
 📺 Knights of the Zodiac: Saint Seiya
 
 ## Drinks
-☕ Coffee
 
+☕ Coffee
+  - [CSP Brewing-Foundation Certified](https://specialtycoffee.my.site.com/s/course-enrollment/a1UVw000000k5Cn/ce605461) by SCA (Specialty Coffee Association)
+        
 🍺 Beer
 
 🍷 Wine
