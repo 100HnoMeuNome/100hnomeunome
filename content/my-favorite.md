@@ -10,6 +10,10 @@
 
 📺 Knights of the Zodiac: Saint Seiya
 
+📺 Matrix
+
+📺 Fight Club
+
 ## Drinks
 
 ☕ Coffee
@@ -28,7 +32,12 @@
 📚 Read
 
 ☕ Barista
-  - [CSP Brewing-Foundation Certified](https://specialtycoffee.my.site.com/s/course-enrollment/a1UVw000000k5Cn/ce605461) by SCA (Specialty Coffee Association)
+- [CSP Brewing-Foundation Certified](https://specialtycoffee.my.site.com/s/course-enrollment/a1UVw000000k5Cn/ce605461) by SCA (Specialty Coffee Association)
 
 🎮 Call of Duty Warzone
-  - casual player#6024746
+- casual player#6024746
+
+## Others
+
+👽 UFO
+
