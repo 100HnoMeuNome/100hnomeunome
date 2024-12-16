@@ -14,6 +14,10 @@
 
 📺 Fight Club
 
+📺 Naked and Afraid a.k.a Largados e Pelados
+
+📺 The Blacklist
+
 ## Drinks
 
 ☕ Coffee
