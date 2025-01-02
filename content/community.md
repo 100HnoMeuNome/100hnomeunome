@@ -23,6 +23,8 @@
 
 ##  Others
 
+:man_teacher: [Hacktiba | Introdução a Segurança de Kubernetes](https://www.youtube.com/watch?v=G6DVNcVceS4)
+
 :man_teacher: [Global SRE Virtual Conference | Software Composition Analysis & Supply Chain Attacks](https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/speakers-131.html)
 
 :man_teacher: [Owasp Belém | Aumentando a maturidade no desenvolvimento de aplicações sem gastar NADA!](https://youtu.be/gA8pRTejBnA)
